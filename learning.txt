@@ -1,0 +1,1 @@
+echo "This course taught me how to use Git, GitHub, and collaborate on code effectively." > learning.txt
